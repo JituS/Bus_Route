@@ -1,0 +1,32 @@
+{
+  "name": "bus_route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "busRoutes.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "chai": "^3.4.1",
+    "cookie-parser": "^1.4.1",
+    "express": "^3.21.2",
+    "istanbul": "^0.4.2",
+    "lodash": "^3.10.1",
+    "sinon": "^1.17.2",
+    "supertest": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JituS/Bus_Route.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JituS/Bus_Route/issues"
+  },
+  "homepage": "https://github.com/JituS/Bus_Route#readme"
+}
